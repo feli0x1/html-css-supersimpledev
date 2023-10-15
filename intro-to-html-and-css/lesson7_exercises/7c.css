@@ -1,0 +1,7 @@
+.cat-photo {
+    width: 190px;
+    height: 190px;
+    border-radius: 100px;
+    object-position: center;
+    object-fit: cover;
+}
