@@ -1,0 +1,32 @@
+p {
+    font-family: Verdana;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.subheading {
+    color: grey;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.content {
+    font-size: 14px;
+    width: 250px;
+}
+
+.get-started-button {
+    background-color: #377c21;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
