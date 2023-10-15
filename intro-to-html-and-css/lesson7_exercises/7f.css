@@ -1,0 +1,39 @@
+p {
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgb(100, 100, 100);
+}
+
+.email-heading {
+    margin-bottom: 14px;
+}
+
+.email-field {
+    margin-bottom: 20px;
+}
+
+.email {
+    width: 484px;
+    height: 40px;
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+.privacy-policy-warning {
+    margin-bottom: 20px;
+}
+
+.agree-and-join {
+    font-family: 'Roboto';
+    font-size: 26px;
+    width: 484px;
+    height: 66px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border-radius: 300px;
+    border: none;
+}
