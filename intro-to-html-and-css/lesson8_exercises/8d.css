@@ -1,0 +1,42 @@
+p {
+    font-family: 'Roboto';
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.first-name-field, .last-name-field, .email-field {
+    font-size: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 12px;
+    border-style: solid;
+    border-color: rgb(207, 207, 207);
+    border-radius: 8px;
+    border-width: 1px;
+}
+
+.first-name-field, .last-name-field {
+    width: 118px;
+    height: 30px;
+}
+
+.email-field {
+    width: 271.5px;
+    height: 30px;
+}
+
+.sign-up-button {
+    background-color: rgb(47, 127, 231);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 301px;
+    height: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 18px;
+    font-weight: bold;
+}
