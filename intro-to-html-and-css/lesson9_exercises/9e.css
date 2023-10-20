@@ -1,0 +1,40 @@
+.tweet {
+    box-shadow: 0px 0px 6px rgb(155, 155, 155);
+    display: inline-block;
+    width: 555px;
+    height: 75px;
+    padding-left: 12px;
+    padding-top: 16px;
+    border-radius: 6px;
+}
+
+.profile-picture {
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 28px;
+    margin-right: 6px;
+}
+
+.tweet-body {
+    vertical-align: middle;
+    border: none;
+    font-size: 22px;
+    width: 360px;
+    margin-right: 2px;
+}
+
+.tweet-button {
+    vertical-align: middle;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 22px;
+    font-weight: bold;
+}
