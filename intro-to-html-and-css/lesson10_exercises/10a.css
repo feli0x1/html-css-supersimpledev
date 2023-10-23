@@ -1,0 +1,58 @@
+* {
+    font-family: Arial;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.image, .cat-info, .follow-section {
+    display: inline-block;
+}
+
+.cat-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    object-fit: cover;
+    margin-right: 22px;
+}
+
+.cat-info {
+    vertical-align: top;
+    margin-right: 250px;
+}
+
+.name {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.known-as {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.popularity {
+    font-size: 22px;
+}
+
+.follow-section {
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.follow-btn {
+    background-color: rgb(29, 161, 242);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
