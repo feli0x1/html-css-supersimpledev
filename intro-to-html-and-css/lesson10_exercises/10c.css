@@ -1,0 +1,40 @@
+* {
+    font-family: Arial;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;  
+}
+
+.video-suggestion {
+    margin-bottom: 10px;
+}
+
+.video-thumbnail, .video-info {
+    display: inline-block;
+    margin-right: 12px;
+    vertical-align: top;
+}
+
+.video-title {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    width: 300px;
+    margin-bottom: 12px;
+}
+
+.video-author, .video-stats {
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+}
+
+.video-author {
+    margin-bottom: 4px;
+}
+
+.dot {
+    font-size: 22px;
+    font-weight: bold;
+}
