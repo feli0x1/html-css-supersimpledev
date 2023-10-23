@@ -39,6 +39,10 @@ p {
     font-size: 22px;
 }
 
+.known-as, .popularity {
+    color: grey;
+}
+
 .follow-section {
     vertical-align: top;
     margin-top: 30px;
